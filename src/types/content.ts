@@ -11,3 +11,4 @@ interface contentType {
   poster_path: any;
   backdrop_pah: any;
 }
+export type { contentType };
